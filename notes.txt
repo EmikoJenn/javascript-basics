@@ -1,0 +1,9 @@
+"var" is function scoped
+when U use "use strict" functions are block scoped
+
+"arguments" is a variable that let you access the variables on a function
+    function (a,b) {
+        console.log(arguments) /// [a,b]
+        exec.
+    }
+it is not defined on arrow functions
